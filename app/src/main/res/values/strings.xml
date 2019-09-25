@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Electron Onboard</string>
+    <string name="subtitle1">We are here to help you with an Android Source code</string>
+    <string name="get_started">GET STARTED</string>
+
+    <string name="title_activity_main">main</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
