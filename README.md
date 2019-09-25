@@ -7,7 +7,7 @@ https://github.com/theuitown/electron_onboarding/raw/master/demo/app-debug.apk
 
 # Demo Video
 
-[![]()](https://www.youtube.com/watch?v=fIpdmBzTGNk&feature=youtu.be)
+[![Video Demo](https://i.ibb.co/pyXK3Vw/Screenshot-20190925-224856.jpg)](https://www.youtube.com/watch?v=fIpdmBzTGNk&feature=youtu.be)
 
 
 If it really works for you can buy me a coffee:-https://paypal.me/iamdevharsh
